@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">USCIS Case Status</string>
+
+    <string name="copyright">
+        Copyright \u00a9 TABS Communication Solutions Pvt. Ltd. 2016
+    </string>
+
+    <string name="status_details">
+        On March 15, 2016, we approved your Form I-129,
+        Petition for a Nonimmigrant Worker, Receipt Number
+        WAC1514751942. We will mail your approval notice.
+        Please follow the instructions in the notice. If you
+        move, go to www.uscis.gov/addresschange to give us your
+        new mailing address.
+    </string>
+
+</resources>
